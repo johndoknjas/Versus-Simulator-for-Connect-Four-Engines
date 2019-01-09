@@ -1,0 +1,21 @@
+
+
+
+
+Results of the match between Version 20 and Version 23:
+
+Version 20 won 1 games.
+Version 23 won 1 games.
+There were 0 draws.
+There were 0 trials where Version 20 scored 2-0 or 1.5-0.5
+There were 0 trials where Version 23 scored 2-0 or 1.5-0.5
+There were 1 trials where the score was equal (1-1)
+Version 20 spent 9.99876 seconds thinking overall, and spent 0.270237 seconds per instance, on average.
+Version 20 had 37 such instances.
+Version 23 spent 10.1996 seconds thinking overall, and spent 0.275664 seconds per instance, on average.
+Version 23 had 37 such instances.
+The average number of moves played (by both sides) in games where Version 20 won was 38
+The average number of moves played (by both sides) in games where Version 23 won was 36
+The average number of moves played (by both sides) in games drawn was nan
+The max amount of time Version 20 spent in ONE call to find_best_move() was 0.002118 seconds.
+The max amount of time Version 23 spent in ONE call to find_best_move() was 0.007254 seconds.
